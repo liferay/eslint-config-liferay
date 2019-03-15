@@ -34,7 +34,9 @@
 		"eslint-plugin-liferayportal": "^1.0.0",
 		"eslint-plugin-no-for-of-loops": "^1.0.0",
 		"eslint-plugin-no-only-tests": "^2.1.0",
-		"eslint-plugin-notice": "0.7.8"
+		"eslint-plugin-notice": "0.7.8",
+		"eslint-plugin-react": "^7.12.4",
+		"eslint-plugin-react-hooks": "^1.5.1"
 	},
 	"scripts": {
 		"ci": "yarn lint && yarn format:check",
