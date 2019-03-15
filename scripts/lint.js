@@ -8,7 +8,7 @@ const child_process = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const LINT_GLOBS = ['**/*.js', '.*.js'];
+const LINT_GLOBS = ['**/!(copyright)*.js', '.*.js'];
 
 /**
  * In order for eslint-config-liferay to be applied to itself, we need
