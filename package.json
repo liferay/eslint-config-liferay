@@ -6,6 +6,7 @@
 	"files": [
 		".eslintrc.js",
 		"index.js",
+		"react.js",
 		"scripts"
 	],
 	"keywords": [
