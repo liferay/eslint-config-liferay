@@ -27,7 +27,7 @@ const config = {
 		'no-unused-vars': ['error', {argsIgnorePattern: '^_'}],
 		'object-shorthand': 'error',
 		'prefer-const': 'error',
-		'quote-props': ['error', 'as-needed'],
+		'quote-props': ['error', 'consistent-as-needed'],
 	},
 };
 
