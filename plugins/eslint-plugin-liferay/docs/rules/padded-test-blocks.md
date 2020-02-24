@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Consecutive test blocks (eg. `it()` etc) should be separated by a blank line (padded-test-blocks)
 
 This rule enforces that `it()` calls and other test blocks are separated by a blank line.

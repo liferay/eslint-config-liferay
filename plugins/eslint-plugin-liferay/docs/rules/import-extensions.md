@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Omit extensions consistently with `import` and `require` (import-extensions)
 
 This rule enforces that `import` statements and `require` calls &mdash; henceforth referred to as just "imports" &mdash; use (or omit) file extensions consistently.

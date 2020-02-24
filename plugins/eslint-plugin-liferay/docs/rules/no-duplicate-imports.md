@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # No duplicate `import` statements (no-duplicate-imports)
 
 This rule enforces that there is at most one `import` statement for a given module in each file. There is no autofix because it is hoped that this is a relative infrequent mistake.

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Sort destructured names in `import` statements (sort-import-destructures)
 
 This rule enforces (and autofixes) that destructured names in `import` statements are sorted.

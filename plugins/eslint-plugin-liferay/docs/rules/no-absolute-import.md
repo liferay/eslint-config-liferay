@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # `import` declarations should not use absolute paths (no-absolute-import)
 
 This rule prohibits using an absolute path with `import` or `require()`.

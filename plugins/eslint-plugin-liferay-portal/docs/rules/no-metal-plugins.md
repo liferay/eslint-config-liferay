@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Disallow use of deprecated metal plugins (no-metal-plugins)
 
 This rule guards against the use of various deprecated metal plugins such as:

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Disallow direct use of `ReactDOM.render` (no-react-dom-render)
 
 This rule guards against the direct use of the `ReactDOM.render` API, in favor of our [custom `render` wrapper](https://github.com/liferay/liferay-portal/blob/master/modules/apps/frontend-js/frontend-js-react-web/src/main/resources/META-INF/resources/js/render.es.js) implemented in `frontend-js-react-web`.
