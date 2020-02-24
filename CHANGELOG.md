@@ -1,9 +1,3 @@
-<!--
-SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
-
-SPDX-License-Identifier: MIT
--->
-
 ## [v19.0.1](https://github.com/liferay/eslint-config-liferay/tree/v19.0.1) (2020-02-10)
 
 [Full changelog](https://github.com/liferay/eslint-config-liferay/compare/v19.0.0...v19.0.1)
