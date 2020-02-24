@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Trim whitespace inside the "className" JSX attribute (trim-class-names)
 
 This rule enforces (and autofixes) that the class names inside the "className" attribute of a JSX element are not preceded or followed by whitespace.

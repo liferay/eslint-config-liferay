@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Disallow use of deprecated jQuery `sideNavigation` plugin (no-side-navigation)
 
 This rule guards against the use of the deprecated jQuery `sideNavigation()` API, which was ported to vanilla JavaScript in [LPS-95476](https://github.com/brianchandotcom/liferay-portal/pull/74090).

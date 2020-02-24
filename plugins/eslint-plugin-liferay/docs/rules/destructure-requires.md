@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # `require` statements should use destructuring (destructure-requires)
 
 For uniformity, all `require` statements should take the form of variable declarations that make the `require()` call and directly bind the result to one or more values.

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Disallow use of specifiers for non-JS resources imported via the loader (no-loader-import-specifier)
 
 The Liferay bundler [provides various loaders](https://github.com/liferay/liferay-js-toolkit/wiki/List-of-loaders) for injecting non-JS resources (for example, CSS, SCSS) into a page. These resources should be included via `import` statements for their side effects only, and not bound to a name using an import specifier.

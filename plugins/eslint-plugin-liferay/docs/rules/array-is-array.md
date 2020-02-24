@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Force usage of `Array.isArray()` (array-is-array)
 
 Because it is [surprisingly difficult to reliably determine whether something is an `Array` in JavaScript](http://web.mit.edu/jwalden/www/isArray.html), [`Array.isArray()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray) should be used instead.

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # `it()` strings should not start with "should" (no-it-should)
 
 This rule enforces that `it()` descriptions start with a verb, not with "should".

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Group `import` statements and `require` calls (group-imports)
 
 This rule enforces (and autofixes) that `import` statements and `require` calls &mdash; henceforth referred to as just "imports" &mdash; appear in the groups described in [our guidelines](https://github.com/liferay/liferay-frontend-guidelines/issues/60).

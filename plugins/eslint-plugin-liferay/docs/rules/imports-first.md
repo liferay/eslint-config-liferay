@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # `import` statements and `require` calls should be at the top (imports-first)
 
 This rule enforces that `import` statements and `require` calls &mdash; henceforth referred to as just "imports" &mdash; appear at the top of the file, before other statements.

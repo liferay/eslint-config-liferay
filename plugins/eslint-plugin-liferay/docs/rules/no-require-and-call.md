@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: © 2020 Liferay Inc. <https://liferay.com>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Top-level `require` values should not be immediately called (no-require-and-call)
 
 To keep `require` statements simple, this rule disallows immediately calling the function returned by a `require()`.
