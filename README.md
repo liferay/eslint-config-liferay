@@ -1,3 +1,7 @@
+> :warning: [The `eslint-config-liferay` package](https://npmjs.com/package/eslint-config-liferay) will be deprecated and this repo archived (ie. switched to read-only mode). Development will continue in [the `@liferay/eslint-config` package](https://npmjs.com/package/@liferay/eslint-config) and [in `liferay/liferay-frontend-projects` monorepo](https://github.com/liferay/liferay-frontend-projects/tree/master/projects/eslint-config).
+
+---
+
 # eslint-config-liferay
 
 ![](https://github.com/liferay/eslint-config-liferay/workflows/ci/badge.svg)
