@@ -26,6 +26,7 @@ const config = {
 	rules: {
 		curly: 'error',
 		'default-case': 'error',
+		eqeqeq: ['error', 'always', {null: 'ignore'}],
 		'liferay/array-is-array': 'error',
 		'liferay/destructure-requires': 'error',
 		'liferay/group-imports': 'error',
